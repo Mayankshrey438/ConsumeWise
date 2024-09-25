@@ -1,0 +1,42 @@
+ProductName,State1,Percentage1,State2,Percentage2,State3,Percentage3,State4,Percentage4
+Almonds,California,60%,Gujarat,20%,Rajasthan,10%,Jammu & Kashmir,5%
+Apples,Himachal Pradesh,50%,Jammu & Kashmir,30%,Uttarakhand,10%,Maharashtra,5%
+Avocados,Maharashtra,70%,Tamil Nadu,20%,Karnataka,5%,Kerala,5%
+Bananas,Kerala,40%,Tamil Nadu,35%,Maharashtra,15%,Andhra Pradesh,5%
+Black Tea,Assam,30%,West Bengal,40%,Kerala,20%,Tamil Nadu,10%
+Broccoli,Maharashtra,25%,Karnataka,30%,Punjab,20%,Gujarat,15%
+Butter,Punjab,55%,Maharashtra,20%,Karnataka,15%,Tamil Nadu,10%
+Carrots,Himachal Pradesh,45%,Punjab,35%,Maharashtra,15%,Haryana,5%
+Cashews,Kerala,65%,Maharashtra,15%,Goa,10%,Tamil Nadu,10%
+Cauliflower,Himachal Pradesh,50%,Maharashtra,30%,Punjab,10%,Gujarat,10%
+Cheese,Maharashtra,50%,Karnataka,30%,Punjab,10%,Gujarat,10%
+Chickpeas,Rajasthan,55%,Gujarat,35%,Madhya Pradesh,5%,Punjab,5%
+Coffee,Karnataka,40%,Kerala,60%,Tamil Nadu,5%,Andhra Pradesh,5%
+Cornflakes,Karnataka,20%,Maharashtra,35%,Tamil Nadu,25%,Gujarat,20%
+Cucumbers,Himachal Pradesh,20%,Punjab,30%,Maharashtra,25%,Gujarat,25%
+Garlic,Madhya Pradesh,35%,Gujarat,25%,Maharashtra,20%,Punjab,20%
+Grapes,Maharashtra,50%,Karnataka,45%,Tamil Nadu,3%,Gujarat,2%
+Green Tea,Assam,25%,West Bengal,30%,Himachal Pradesh,25%,Uttarakhand,20%
+Iced Tea,Assam,55%,Kerala,20%,Karnataka,15%,Tamil Nadu,10%
+Kidney Beans,Maharashtra,75%,Rajasthan,50%,Punjab,5%,Uttar Pradesh,5%
+Mangoes,Maharashtra,60%,Andhra Pradesh,40%,Tamil Nadu,5%,Uttar Pradesh,5%
+Milk,Punjab,70%,Haryana,30%,Maharashtra,5%,Gujarat,5%
+Oatmeal,Uttar Pradesh,30%,Punjab,20%,Maharashtra,25%,Karnataka,25%
+Onion,Maharashtra,30%,Karnataka,25%,Tamil Nadu,20%,Gujarat,25%
+Oranges,Maharashtra,40%,Gujarat,35%,Punjab,15%,Andhra Pradesh,10%
+Pineapple,Kerala,50%,Karnataka,20%,Tamil Nadu,20%,Goa,10%
+Popcorn,Maharashtra,20%,Karnataka,30%,Gujarat,20%,Tamil Nadu,20%
+Potato Chips,Gujarat,60%,Maharashtra,30%,Karnataka,5%,Punjab,5%
+Potatoes,Uttar Pradesh,30%,West Bengal,40%,Maharashtra,15%,Karnataka,15%
+Rice,West Bengal,30%,Punjab,25%,Uttar Pradesh,20%,Tamil Nadu,25%
+Soda,Maharashtra,40%,Gujarat,25%,Karnataka,20%,West Bengal,15%
+Spinach,Maharashtra,60%,Punjab,35%,Gujarat,5%,Tamil Nadu,5%
+Sprite,Maharashtra,70%,Gujarat,30%,Tamil Nadu,5%,Rajasthan,5%
+Shampoo,Maharashtra,40%,Tamil Nadu,35%,Karnataka,15%,Gujarat,10%
+Conditioner,Maharashtra,30%,Punjab,20%,Karnataka,25%,Tamil Nadu,25%
+Soap,Karnataka,20%,Maharashtra,25%,Tamil Nadu,30%,Gujarat,25%
+Lotion,Maharashtra,30%,Kerala,40%,Karnataka,20%,Tamil Nadu,10%
+Toothpaste,Uttar Pradesh,30%,Gujarat,25%,Maharashtra,20%,Tamil Nadu,25%
+Deodorant,Maharashtra,30%,Karnataka,20%,Tamil Nadu,25%,Gujarat,25%
+Face Wash,Kerala,25%,Maharashtra,30%,Tamil Nadu,25%,Gujarat,20%
+Sunscreen,Maharashtra,30%,Kerala,25%,Gujarat,20%,Tamil Nadu,25%
