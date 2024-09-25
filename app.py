@@ -7,8 +7,11 @@ import streamlit as st
 from groq import Groq
 
 # Set up API key
-GROQ_API_KEY = ''  # Replace with your Groq API key
-os.environ['GROQ_API_KEY'] = GROQ_API_KEY
+GROQ_API_KEY = os.getenv('GROQ_API_KEY')  # Retrieve the API key from the environment
+if not GROQ_API_KEY:
+    st.error("GROQ_API_KEY not found. Please set it in the environment.")
+else:
+    os.environ['GROQ_API_KEY'] = GROQ_API_KEY
 
 # Initialize Groq client
 client = Groq()
@@ -213,9 +216,7 @@ def show_product_info(folder_path):
 # Main function to run the app
 def main():
     st.title("ConsumeWise - Gen AI Product Information")
-
-    folder_path = 'food_dataset\FoodDataset - Copy'  # Update this with your main directory path
-
+    folder_path = "foodImages"
     show_product_info(folder_path)
     chat_with_bot()
 
